@@ -51,7 +51,7 @@ Data collection
 ===============
 By using Gitpod in this project, you agree to opt-in to basic, anonymous analytics. No personal information is transmitted. Instead, these usage statistics aid in discovering potential bugs and user flow information.
 
-  [smart contract docs]: https://docs.near.org/docs/develop/contracts/overview
+  [smart contract docs]: https://docs.near.org/develop/welcome
   [asp]: https://www.npmjs.com/package/@as-pect/cli
   [jest]: https://jestjs.io/
   [NEAR]: https://near.org/

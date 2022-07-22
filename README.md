@@ -106,10 +106,10 @@ As you can see in `package.json`, this does two things:
   [yarn]: https://yarnpkg.com/
   [AssemblyScript]: https://www.assemblyscript.org/introduction.html
   [React]: https://reactjs.org
-  [smart contract docs]: https://docs.near.org/docs/develop/contracts/overview
+  [smart contract docs]: https://docs.near.org/develop/welcome
   [asp]: https://www.npmjs.com/package/@as-pect/cli
   [jest]: https://jestjs.io/
-  [NEAR accounts]: https://docs.near.org/docs/concepts/account
+  [NEAR accounts]: https://docs.near.org/concepts/basics/account
   [NEAR Wallet]: https://wallet.near.org
   [near-cli]: https://github.com/near/near-cli
   [CLI]: https://www.w3schools.com/whatis/whatis_cli.asp

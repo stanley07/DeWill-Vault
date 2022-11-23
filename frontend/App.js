@@ -6,6 +6,8 @@ import Form from './components/Form';
 import SignIn from './components/SignIn';
 import Messages from './components/Messages';
 
+
+
 const SUGGESTED_DONATION = '0';
 const BOATLOAD_OF_GAS = Big(3).times(10 ** 13).toFixed();
 
@@ -59,7 +61,9 @@ const App = ({ contract, currentUser, nearConfig, wallet }) => {
   return (
     <main>
       <header>
-        <h1>NEAR Guest Book</h1>
+        <h1>📖 DeWill Vault</h1>
+        <h4>Immutable and tamper-proof storage system</h4>
+       
         { currentUser
           ? <button onClick={signOut}>Log out</button>
           : <button onClick={signIn}>Log in</button>

@@ -37,7 +37,7 @@
   "dependencies": {
     "big.js": "^6.2.0",
     "env-cmd": "^10.1.0",
-    "near-api-js": "^0.45.1",
+    "near-api-js": "^1.1.0",
     "prop-types": "^15.8.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
